@@ -34,11 +34,12 @@ input[type=text], input[type=password], input[type=Email] {
   }
   form button {
   background-color: #680e0e;
-  color:white;
+  color: white;
   border-radius: 10px;
   width: 20%;
   padding: 10px;
-  margin-left: 220px;
+  margin: 0 auto;
+  text-align: center;
   border-style: none;
   border: 2px solid #680e0e;
   cursor: pointer;
